@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         var count:  Int =10
         var count2:  Int =50
-        var count1:  Int =50
+        var count1:  Int =89
     }
 }
